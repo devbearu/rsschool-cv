@@ -1,1 +1,1 @@
-# rsschool-cv
+https://devbearu.github.io/rsschool-cv/
